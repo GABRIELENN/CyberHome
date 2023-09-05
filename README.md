@@ -2,8 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b> Certifications </b>
+  - [Google CyberSecurity certificate ](https://www.coursera.org/account/accomplishments/verify/NNZKRAAVYF2N?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course )
+ 
 - <b>Risk assessment </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+  - [Botium Toys IT Auditing for Cybersecurity ](https://github.com/users/GABRIELENN/projects/1 )
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
